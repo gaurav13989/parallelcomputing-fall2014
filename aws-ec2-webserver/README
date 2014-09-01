@@ -1,0 +1,6 @@
+This is the read me for the web server we use for hosting the parallel computing
+website.
+
+Amazon EC2 public url: http://ec2-54-68-34-141.us-west-2.compute.amazonaws.com/
+Public IP EC2: 54.68.34.141
+Bitly shortened url: https://bitly.com/house_ghaaslet (can be changed)
